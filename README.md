@@ -2,7 +2,7 @@
 Hello, This guide is designed to help those of you who use a Macintosh computer, run Titanic, a osu! server using a client of your choice, The project is developed by one person called Levi aka lekkuru, and the person behind Titanic, to do this guide you'll need the following files
 
 A client from the site 
-The latest wineskin (the file will be in a zip on the github.)
+The latest wineskin THAT YOUR VERISON HAS (the file will be in a zip here: https://osu.ppy.sh/community/forums/topics/1106057?n=1 (i can't stress this enough, but please read carefully before proceeding)
 A supproted macintosh from the list below
 
 1. Make sure your Mac is running a operating system above High Sierra as it is required for the best performance and this guide, although it might run on High Sierra, most browsers don't support github. IMPORTANT! IF YOUR MAC IS RUNNING ANY CATALINA VERSION BELOW 10.15.5, YOU'LL NEED TO DISABLE SYSTEM INTEGRITY PROTECTION (SIP) 
